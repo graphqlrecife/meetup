@@ -9,6 +9,10 @@ Um espaço para reunir pessoas que já estão usando ou que tem interesse em usa
 ## Objetivos
 Temos por objetivo compartilhar aprendizado e experiências de usar GraphQL em produção, como também produzir conteúdo regional, engajar novos adeptos da linguagem. Além de promover o desenvolvimento pessoal, networking e da comunidade.
 
+## Código de Conduta
+Política de tolerância zero para assédio. Todos são bem-vindos, incentivados a serem eles mesmos e têm o direito de se sentir à vontade no evento, independentemente de sexo, idade, raça, religião, orientação sexual etc.
+Leia nosso [Código de Conduta](https://github.com/graphqlrecife/meetup/blob/master/CONDUTA.md)
+
 ## Canais
 - [Meetup](https://www.meetup.com/GraphQL-Recife/)
 - [Twitter](https://twitter.com/graphqlrecife)
