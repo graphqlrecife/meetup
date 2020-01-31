@@ -18,3 +18,9 @@ Leia nosso [Código de Conduta](https://github.com/graphqlrecife/meetup/blob/mas
 - [Twitter](https://twitter.com/graphqlrecife)
 - [Telegram](https://t.me/graphqlrecife)
 - [GitHub](https://github.com/graphqlrecife)
+
+## Edições
+- [GraphQL Recife #1](https://github.com/graphqlrecife/meetup/blob/master/GraphQLRecife-1.md)
+- [GraphQL Recife #2](https://github.com/graphqlrecife/meetup/blob/master/GraphQLRecife-2.md)
+- [GraphQL Recife #3](https://github.com/graphqlrecife/meetup/blob/master/GraphQLRecife-3.md)
+- [GraphQL Recife #4](https://github.com/graphqlrecife/meetup/blob/master/GraphQLRecife-4.md)
